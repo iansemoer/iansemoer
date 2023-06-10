@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iansemoer 
 - 👀 I’m interested in website building
 - 🌱 I’m currently learning and trying out new things
-- 💞️ I’m looking to collaborate on creating login, contact and comment firms
+- 💞️ I’m looking to collaborate on creating login, contact and comment forms
 - 📫 How to reach me at iansemoer@gmail.com
 
 <!---
